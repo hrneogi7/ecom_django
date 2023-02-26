@@ -9,6 +9,8 @@ django-cors-headers = "*"
 djangorestframework = "*"
 pillow = "*"
 braintree = "*"
+django-environ = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 
